@@ -1,0 +1,14 @@
+# Ignore compiled executables
+*.exe
+*.o
+*.obj
+
+# Ignore Visual Studio folders
+.vs/
+Debug/
+Release/
+x64/
+
+# Ignore other OS junk
+Thumbs.db
+.DS_Store
